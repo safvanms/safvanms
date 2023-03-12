@@ -11,11 +11,8 @@
 <p align="left">
   
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XZ8-OTu4_T3Fa2lyfTc99psyJ23m3JtVbA&usqp=CAU" alt="react" width="40" height="40"/> </a>
-
-  <a href="[https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhmDtsYdvG33r593WvTsrbj7W9DLtUxIe5ug&usqp=CAU" alt="react" width="40" height="40"/> </a>
-  
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQtSY5c0yt4sdSVXyQ8zA9tM2YDzMTIZ45ng&usqp=CAU" alt="react" width="40" height="40"/> </a>
-  
+<a href="[https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhmDtsYdvG33r593WvTsrbj7W9DLtUxIe5ug&usqp=CAU" alt="react" width="40" height="40"/> </a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyPH_P426sD4knJzL3aPFeOqrJXtJFYPBAQ&usqp=CAU" alt="react" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
