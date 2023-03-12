@@ -2,16 +2,11 @@
 <h3 align="center">A passionate frontend developer from Kerala, India.</h3>
 
   📫 How to reach me **muhammedsafvan1ms@gmail.com**
-  <h4 align="center"></h4>
- 
-
+  
+<a href="http://mdsafvan.tech">http://mdsafvan.tech</a>
 <h3 >Connect with me: +91 755 886 4266</h3>
-<a href="http://mdsafvan.tech"><h3 color="red">Website : http://mdsafvan.tech</h3></a>
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"></h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XZ8-OTu4_T3Fa2lyfTc99psyJ23m3JtVbA&usqp=CAU" alt="react" width="40" height="40"/> </a>
