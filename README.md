@@ -3,7 +3,7 @@
 
   📫 How to reach me **muhammedsafvan1ms@icloud.com**
   
-<a href="https://mdsafvan.netlify.app">http://mdsafvan.tech</a>
+<a href="https://mdsafvan.netlify.app">https://mdsafvan.netlify.app</a>
 <h3 >Connect with me: +91 755 886 4266</h3>
 
 <h3 align="left"></h3>
